@@ -24,3 +24,5 @@ https://towardsdatascience.com/mastering-the-art-of-web-scraping-with-selenium-a
 https://selenium-python.readthedocs.io/installation.html#drivers   
 
 https://www.datasciencewiki.com/2019/12/web-scraping-using-python-and-selenium.html 
+
+https://medium.com/analytics-vidhya/the-art-of-not-getting-blocked-how-i-used-selenium-python-to-scrape-facebook-and-tiktok-fd6b31dbe85f
