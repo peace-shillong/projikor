@@ -13,6 +13,11 @@ Why? Cuz the real account could get blocked, that's why
 Steps
 1. connect to fb with fake account : 
 2. goto groups and scrap data  : 2675326577
+	https://www.facebook.com/groups/inkscape.org/
+	https://www.facebook.com/groups/483069355774226/
+	https://www.facebook.com/groups/484669371577018/
+	https://www.facebook.com/TrafficPoliceShillong/
+	https://www.facebook.com/cmmeghalaya/
 3. store data in our db and represent them in another way : 
 
 
